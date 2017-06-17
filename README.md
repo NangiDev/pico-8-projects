@@ -11,3 +11,26 @@ I can't take all the cred though!
 
 Some stuff are more or less done, but I need to sort and clean some stuff.
 Will probably create like a WIP folder and have "games" and "tech" as done-folder.
+
+# Games
+## Ninja
+![](./gifs/ninja.gif)
+## JetPac
+![](./gifs/jetpac.gif)
+## Corrupted Scrapyard
+![](./gifs/scrappy.gif)
+# Tech
+## Shadow Test
+## Bastion
+## Animation
+## Bitwise
+## Rolling ball
+## Jump and Fall
+## Graham Scan
+## Push Objects
+## Linjear Interpolation
+## Flag Test
+## Sort a list
+## Polyfill
+## Weapon system
+## Bitvise
