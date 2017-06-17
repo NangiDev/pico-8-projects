@@ -13,12 +13,11 @@ Some stuff are more or less done, but I need to sort and clean some stuff.
 Will probably create like a WIP folder and have "games" and "tech" as done-folder.
 
 # Games
-## Ninja
-![](./gifs/ninja.gif)
-## JetPac
-![](./gifs/jetpac.gif)
-## Corrupted Scrapyard
-![](./gifs/scrappy.gif)
+ Ninja                 |   JetPac                |   Corrupted Scrapyard
+:---------------------:|:-----------------------:|:-----------------------:|
+![./gifs/ninja.gif](./gifs/ninja.gif?raw=true "Ninja")  | ![./gifs/jetpac.gif](./gifs/jetpac.gif?raw=true "JetPac") | ![./gifs/scrappy.gif](./gifs/scrappy.gif?raw=true "Scrappy")
+[My ninja game](./games/ninja.p8) | [My JetPac game](./games/jetpac.p8) | [My scrappy game](./games/crupt_scrpyrd.p8)
+More or less done. Needs a end game. This is the game where I sort of stole graphics from that game that I cant remember the name of. | JetPac is done. It's a clone of the old JetPac that developed for the ZX Spectrum. It was developed for the Banana Jam that Indie Gothenburg hosted. | Scrappy is not even playable. I had an idea, but it sort of spiraled away and became lots of tech demos instead.
 # Tech
 ## Shadow Test
 ## Bastion
