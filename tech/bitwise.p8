@@ -81,9 +81,9 @@ function _draw()
 	mapdraw();
 	for w in all(walls) do
 		if w.f then
+			draw_shadow(w.v);
 			line(w.s.x,w.s.y,w.e.x,w.e.y,11);
 			pset(w.n.x-(w.s.x-w.e.x)*0.5,w.n.y-(w.s.y-w.e.y)*0.5,9);
-			--draw_shadow(w.v);
 		end
 	end
 --[[	for b in all(bitmap) do
