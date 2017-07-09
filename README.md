@@ -24,7 +24,8 @@ More or less done. Needs a end game. It is heavily inspired by Super Crate Box |
 :---------------------:
 ![./gifs/railrogue.gif](./gifs/railrogue.gif?raw=true "Rail Rogue") 
 [A Rail Rogue game](./games/railrogue.p8)
-A game I made for Fantasy Console Game Jam. It was an idea that slapmybitsup@twitter came up with
+A game I made for Fantasy Console Game Jam. It was an idea that slapmybitsup@twitter came up with.
+Playable in your web browser https://nangidev.github.io/pico-8-projects/web/railrogue.html
 
 # Tech
 
