@@ -20,6 +20,12 @@ Will probably create like a WIP folder and have "games" and "tech" as done-folde
 [My ninja game](./games/ninja.p8) | [My JetPac game](./games/jetpac.p8) | [My scrappy game](./games/crupt_scrpyrd.p8)
 More or less done. Needs a end game. It is heavily inspired by Super Crate Box | JetPac is done. It's a clone of the old JetPac that developed for the ZX Spectrum. It was developed for the Banana Jam that Indie Gothenburg hosted. | Scrappy is not even playable. I had an idea, but it sort of spiraled away and became lots of tech demos instead.
 
+ Rail Rogue
+:---------------------:
+![./gifs/railrogue.gif](./gifs/railrogue.gif?raw=true "Rail Rogue") 
+[A Rail Rogue game](./games/railrogue.p8)
+A game I made for Fantasy Console Game Jam. It was an idea that slapmybitsup@twitter came up with
+
 # Tech
 
  Shadow Test           |   Bastion                |   Animation
