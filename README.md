@@ -18,19 +18,13 @@ Will probably create like a WIP folder and have "games" and "tech" as done-folde
 :---------------------:|:-----------------------:|:-----------------------:|
 ![./gifs/ninja.gif](./gifs/ninja.gif?raw=true "Ninja")  | ![./gifs/jetpac.gif](./gifs/jetpac.gif?raw=true "JetPac") | ![./gifs/scrappy.gif](./gifs/scrappy.gif?raw=true "Scrappy")
 [My ninja game](./games/ninja.p8) | [My JetPac game](./games/jetpac.p8) | [My scrappy game](./games/crupt_scrpyrd.p8)
-More or less done. Needs a end game. It is heavily inspired by Super Crate Box 
-Playable in your web browser https://nangidev.github.io/pico-8-projects/web/ninja.html | JetPac is done. It's a clone of the old JetPac that developed for the ZX Spectrum. It was developed for the Banana Jam that Indie Gothenburg hosted. 
-Playable in your web browser https://nangidev.github.io/pico-8-projects/web/jetpac.html | Scrappy is not even playable. I had an idea, but it sort of spiraled away and became lots of tech demos instead.
+More or less done. Needs a end game. It is heavily inspired by Super Crate Box. Playable in your web browser https://nangidev.github.io/pico-8-projects/web/ninja.html | JetPac is done. It's a clone of the old JetPac that developed for the ZX Spectrum. It was developed for the Banana Jam that Indie Gothenburg hosted. Playable in your web browser https://nangidev.github.io/pico-8-projects/web/jetpac.html | Scrappy is not even playable. I had an idea, but it sort of spiraled away and became lots of tech demos instead.
 
  Rail Rogue
 :---------------------:
 ![./gifs/railrogue.gif](./gifs/railrogue.gif?raw=true "Rail Rogue") 
 [A Rail Rogue game](./games/railrogue.p8)
-A game I made for Fantasy Console Game Jam. It was an idea that slapmybitsup@twitter came up with.
-
-Sound fx and music are made by fabian.sorensson@twitter
-
-Playable in your web browser https://nangidev.github.io/pico-8-projects/web/railrogue.html
+A game I made for Fantasy Console Game Jam. It was an idea that slapmybitsup@twitter came up with. Sound fx and music are made by fabian.sorensson@twitter. Playable in your web browser https://nangidev.github.io/pico-8-projects/web/railrogue.html
 
 # Tech
 
